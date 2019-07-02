@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "360495900493",
+    "firebase_url": "https://loan-management-796ab.firebaseio.com",
+    "project_id": "loan-management-796ab",
+    "storage_bucket": "loan-management-796ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360495900493:android:a5297376eb9ee7b9",
+        "android_client_info": {
+          "package_name": "com.example.loanmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360495900493-guu44t4s8iujpu3n0p0rgb03fjr1ctti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYFdD93NsUzUxYQVxQtqOLuKNbm1kkmRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360495900493-guu44t4s8iujpu3n0p0rgb03fjr1ctti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360495900493:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360495900493-guu44t4s8iujpu3n0p0rgb03fjr1ctti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYFdD93NsUzUxYQVxQtqOLuKNbm1kkmRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360495900493-guu44t4s8iujpu3n0p0rgb03fjr1ctti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
